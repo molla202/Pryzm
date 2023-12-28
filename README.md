@@ -35,8 +35,8 @@ rm -rf go1.20.4.linux-amd64.tar.gz
 ```
 ## Binary Kurulumu
 ```bash
-wget https://storage.googleapis.com/pryzm-resources/pryzmd-0.9.0-linux-amd64.tar.gz
-tar -xzvf pryzmd-0.9.0-linux-amd64.tar.gz
+wget https://storage.googleapis.com/pryzm-resources/pryzmd-0.10.0-linux-amd64.tar.gz
+tar -xzvf pryzmd-0.10.0-linux-amd64.tar.gz
 mv pryzmd $HOME/go/bin
 ```
 ## İnitalize
